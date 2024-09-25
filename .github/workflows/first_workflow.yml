@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print greentings
-        run: echo"Hello World"
+        run: echo "Hello World"
       - name: print GoodBye
         run: echo "Done-Bye"
